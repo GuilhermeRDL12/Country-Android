@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paesi</string>
+    <string name="country">Italia</string>
+    <string name="descriptionCountry">Bandiera dell\'Italia</string>
+    <string name="descriptionFood">Pasta tipica italiana</string>
+    <string name="food">Pasta</string>
+</resources>

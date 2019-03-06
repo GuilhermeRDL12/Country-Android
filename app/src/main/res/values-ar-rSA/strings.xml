@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="country">المملكة العربية السعودية</string>
+    <string name="descriptionCountry">علم المملكة العربية السعودية</string>
+    <string name="descriptionFood">نقانق اللحم اللحوم الغذائية النموذجية من المملكة العربية السعودية</string>
+    <string name="food">فيليه لحم البقر</string>
+</resources>
