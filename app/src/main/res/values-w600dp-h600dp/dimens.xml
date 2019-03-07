@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="country">60sp</dimen>
+    <dimen name="food">60sp</dimen>
+    <dimen name="dimensionCountry">300dp</dimen>
+    <dimen name="dimensionFood">300dp</dimen>
+</resources>

@@ -18,19 +18,19 @@
 
     <ImageView
         android:id="@+id/CountryimageView"
-        android:layout_width="250dp"
+        android:layout_width="@dimen/dimensionCountry"
         android:layout_height="0dp"
-        android:layout_weight="2"
         android:layout_gravity="center"
+        android:layout_weight="2"
         android:contentDescription="@string/descriptionCountry"
         app:srcCompat="@drawable/country" />
 
     <ImageView
         android:id="@+id/FoodimageView"
-        android:layout_width="250dp"
+        android:layout_width="@dimen/dimensionFood"
         android:layout_height="0dp"
-        android:layout_weight="2"
         android:layout_gravity="center"
+        android:layout_weight="2"
         android:contentDescription="@string/descriptionFood"
         app:srcCompat="@drawable/food" />
 

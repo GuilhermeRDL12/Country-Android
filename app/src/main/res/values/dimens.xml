@@ -2,4 +2,6 @@
 <resources>
     <dimen name="country">24sp</dimen>
     <dimen name="food">24sp</dimen>
+    <dimen name="dimensionCountry">250dp</dimen>
+    <dimen name="dimensionFood">250dp</dimen>
 </resources>
